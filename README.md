@@ -103,6 +103,3 @@ Comprehensive documentation is available on [pkg.go.dev](https://pkg.go.dev/gith
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Contributions are welcome! If you encounter issues or have suggestions for improvements, please open an issue or submit a pull request.
